@@ -40,6 +40,7 @@ def home():
         "available_tools": [
             "/hr-tools/gosi",
             "/hr-tools/eos",
+            "/hr-tools/rs",
         ],
     }
 
